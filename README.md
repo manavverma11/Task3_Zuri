@@ -6,7 +6,7 @@ The Image Gallery Web Application is a web-based platform for discovering inform
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## [Demo Link](https://hngtask3jagmeet.netlify.app/)
+## [Demo Link](https://hngtask3manav.netlify.app/)
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ pnpm dev
 1. Clone the repository:
 
 ```bash
-https://github.com/jagmeetkaur03/Task3_Zuri.git
+https://github.com/manavverma11/Task3_Zuri.git
 ```
 
 2. Install dependencies:
